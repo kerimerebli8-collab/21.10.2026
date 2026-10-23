@@ -1,0 +1,136 @@
+/* p{
+    background-color: teal;
+    margin: 40px;
+    padding: 15px 25px;
+    width: 250px;
+    box-sizing: border-box;
+    border: 5px solid black;
+    border-top-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+} */
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 24px;
+    color: #000;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(251, 250, 250);
+}
+
+table{
+    width: 700px;
+    border-collapse: collapse;
+    margin: 20px 0;
+    background-color: #f0fff8;
+    
+}
+
+td{
+    border: 1px solid #80ced6;
+    padding: 10px;
+    color: #555;
+}
+
+td:first-child{
+    width: 180px;
+    font-weight: bold;
+}
+.first{
+    background-color: #f0fff8;
+    margin: 20px 0;
+    padding: 30px;
+    height: auto;
+    width: 700px;
+    box-sizing: border-box;
+    border: 1px solid #80ced6;
+    border-radius: 10px;
+
+}
+.second{
+    background-color: #f0fff8;
+    margin: 20px 0;
+    padding: 30px;
+    height: auto;
+    width: 700px;
+    box-sizing: border-box;
+    border: 1px solid #80ced6;
+    border-radius: 10px;
+}
+.third{
+    background-color: #f0fff8;
+    margin: 20px 0;
+    padding: 30px;
+    height: auto;
+    width: 700px;
+    box-sizing: border-box;
+    border: 1px solid #80ced6;
+    border-radius: 10px;
+}
+.fourth{
+    background-color: #f0fff8;
+    margin: 20px 0;
+    padding: 30px;
+    height: auto;
+    width: 700px;
+    box-sizing: border-box;
+    border: 1px solid #80ced6;
+    border-radius: 10px;
+}
+.fifth{
+    background-color: #f0fff8;
+    margin: 20px 0;
+    padding: 30px;
+    height: auto;
+    width: 700px;
+    box-sizing: border-box;
+    border: 1px solid #80ced6;
+    border-radius: 10px;
+}
+.info{
+    background-color: #f0fff8;
+    margin: 20px 0;
+    padding: 30px;
+    height: auto;
+    width: 700px;
+    box-sizing: border-box;
+    border: 1px solid #80ced6;
+    border-radius: 10px;
+}
+.info{
+    list-style-type: square;
+    margin: 0;
+    padding-left: 20px;
+}
+
+.info li{
+    margin-bottom: 3px;
+    line-height: 1.1;
+}
+
+.Life{
+    width: 760px;
+    box-sizing: border-box;
+    height: auto;
+    margin: 20px 0;
+    background-color: #f0fff8;
+    border: 1px solid #7fc4d8;
+    border-radius: 10px;
+    padding: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    color: #000;
+}
+
+.Life ul{
+    list-style-type: square;
+    margin: 0;
+    padding-left: 20px;
+}
+
+.Life li{
+    margin-bottom: 3px;
+    line-height: 1.1;
+}
